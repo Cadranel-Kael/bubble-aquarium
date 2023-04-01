@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #344d50;
+  background: hsl(186, 21%, 26%);
   overflow: hidden;
   display: grid;
   grid-template-rows: auto;
@@ -24,7 +24,7 @@ html, body {
 #my-canvas {
   display: block;
   margin: 0 auto;
-  border: 1rem solid #2f3e46;
+  border: 1rem solid hsl(201, 20%, 23%);
   border-radius: 1rem;
   box-shadow: 0 0 1rem 0.5rem rgba(0, 0, 0, 0.41);
 }
